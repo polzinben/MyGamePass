@@ -1,5 +1,4 @@
 # MyGamePass # 
----
 
 With an estimated 1.2 Million (and growing!) games across all platforms today it can be overwhelming trying to find your next favorite game to play.  Using machine learning and natural language processing, MyGamePass intends to help solve this problem.
 
@@ -13,7 +12,7 @@ This project provides a great highlight of data analysis fundamentals as well as
 
 ---
 ## Prerequisites ##
----
+
 The following packages are required in addition to python.  Please install at your own risk.
 
 seaborn for visualizations:
@@ -32,7 +31,7 @@ Note - alternatively, MyGamePass.yml environment has been included in repository
 
 ---
 ## Data Description ##
----
+
 Two complementary datasets were acquired from Kaggle for this project.  The first dataset contains extensive game descriptive information from the steam store.  The second is a dataset containing 200,000 user-game interactions (purchase/play) from the steam store.
 
 Steam Store Data
@@ -54,7 +53,8 @@ Steam Store Data
 - `5_matrix_factorizatoin` : collaborative based filtering using Surprise library
 
 ---
-### Thank you very much for your interest!  Please reach out through LinkedIn for hiring inquiries. ###
+### Thank you very much for your interest!  ### 
+## Please reach out through LinkedIn for hiring inquiries. ##
 
 linkedin.com/in/bpolzin
 
