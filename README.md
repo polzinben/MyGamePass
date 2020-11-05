@@ -44,13 +44,13 @@ Steam Store Data
 - `data` folder: stores all .csv files used in project acquired from Kaggle
     - `steam_store` : subfolder containing the steam store game descriptive data
 - `deliverables` folder: stores summarizing documents
-    - `ben_polzin_capstone_presentation` : presentation slides
-    - `ben_polzin_capstone_report` : complete report of the project
-- `1_steam_cleanup` : data analysis and preprocessing of master steam dataframe
-- `2_descr_cleanup` : data preprocessing of steam game descriptions
-- `3_user_cleanup` : EDA and preprocessing of user data
-- `4_content_modeling` : content based recommender system using descriptive information
-- `5_matrix_factorizatoin` : collaborative based filtering using Surprise library
+    - `ben_polzin_capstone_presentation.pdf` : presentation slides
+    - `ben_polzin_capstone_report.pdf` : complete report of the project
+- `1_steam_cleanup.ipynb` : notebook of data analysis and preprocessing of master steam dataframe
+- `2_descr_cleanup.ipynb` : notebook of data preprocessing of steam game descriptions
+- `3_user_cleanup.ipynb` : notebook of EDA and preprocessing of user data
+- `4_content_modeling.ipynb` : notebooke with content based recommender system using descriptive information
+- `5_matrix_factorizatoin.ipynb` : notebook with collaborative based filtering using Surprise library
 
 ---
 ### Thank you very much for your interest!  ### 
