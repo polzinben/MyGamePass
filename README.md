@@ -54,7 +54,7 @@ Steam Store Data
 
 ---
 ### Thank you very much for your interest!  ### 
-## Please reach out through LinkedIn for hiring inquiries. ##
+#### Please reach out through LinkedIn for hiring inquiries. ####
 
 linkedin.com/in/bpolzin
 
