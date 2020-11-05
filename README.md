@@ -9,7 +9,7 @@ Situations for MyGamePass include:
 I have built a rough prototype of a content based recommender system as well as a collaborative filtering system.
 
 Please enjoy this brief overview of the project:
-https://www.youtube.com/embed/gmJrP60PNIA
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gmJrP60PNIA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This project provides a great highlight of data analysis fundamentals as well as an understanding of more advanced concepts such as Machine Learning Pipelines as well as Natural Language Processing, Funk Singular Vector Decomposition, Cosine Similarity, and model evaluation.  Packages demonstrated include pandas, matplotlib, seaborn, sklearn, nltk, and surprise.  
 
